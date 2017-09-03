@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "flocking.h"
 
 int main(void)
 {
